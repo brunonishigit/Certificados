@@ -12,7 +12,7 @@ Eles representam meu comprometimento com aprendizado contínuo e desenvolvimento
 - [Jornada Dev – EBAC](./JornadaDev_EBAC.pdf)
 - [Modelagem de Software – USJT](./Modelagem_de_software_USJT.pdf)
 - [Pacote Office Essencial – Udemy](./PacoteOffice_Udemy.pdf)
-- [Programa de Soluções Computacionais – USJT](./Programação_de_SoluçõesComp_USJT.pdf)
+- [Programa de Soluções Computacionais – USJT](./Programação_de_SoluçõesComputacionais_USJT.pdf)
 - [Python: Condicionais – Alura](./Python_Condicionais_Alura.pdf)
 - [Python: Crie sua Primeira Aplicação – Alura](./Python_PrimeiraAplicação_Alura.pdf)
 - [SQL: Banco de Dados do Zero ao Avançado – Udemy](./SQL_BancoDeDados_Udemy.pdf)
