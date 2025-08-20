@@ -16,6 +16,10 @@ Eles representam meu comprometimento com aprendizado contínuo e desenvolvimento
 - [Python: Condicionais – Alura](./Python_Condicionais_Alura.pdf)
 - [Python: Crie sua Primeira Aplicação – Alura](./Python_PrimeiraAplicacao_Alura.pdf)
 - [SQL: Banco de Dados do Zero ao Avançado – Udemy](./SQL_BancoDeDados_Udemy.pdf)
+- [Python: Listas e Tuplas – Alura](./Python_Listas_Tuplas_Alura.pdf)
+- [Python: Strings e Regex – Alura](./Python_Strings_Regex_Alura.pdf)
+- [Python: Laços For e While – Alura](./Python_Laços_Alura.pdf)
+- [Expo São Judas 2025.1 – USJT](./Expo2025_USJT.pdf)
 
 ---
 
