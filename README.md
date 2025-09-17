@@ -20,6 +20,10 @@ Eles representam meu comprometimento com aprendizado contínuo e desenvolvimento
 - [Python: Strings e Regex – Alura](./Python_Strings_Regex_Alura.pdf)
 - [Python: Laços For e While – Alura](./Python_Laços_Alura.pdf)
 - [Expo São Judas 2025.1 – USJT](./Expo2025_USJT.pdf)
+- [Python: Conjuntos e Dicionários – Alura](./Python_Conjuntos_Dicionários_Alura.pdf)
+- [Python: Funções – Alura](./Python_Funções_Alura.pdf)
+- [Python: Programação Assíncrona – Alura](./Python_Programação_Assíncrona_Alura.pdf)
+- [Python: Trabalhando com Projetos – Alura](./Python_Trabalhando_Projetos_Alura.pdf)
 
 ---
 
