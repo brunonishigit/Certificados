@@ -7,6 +7,7 @@ Eles representam meu comprometimento com aprendizado contínuo e desenvolvimento
 
 ## 📂 Lista de Certificados
 
+- [Projeto Integrador - Sabor Local (No Code/Low Code)](Projeto_Integrador_Sabor_Local.pdf)
 - [Anima Tech Week – USJT](./Anima_TechWeek_USJT.pdf)
 - [Git e GitHub do Básico ao Avançado – Udemy](./Git_GitHub_Udemy.pdf)
 - [Jornada Dev – EBAC](./JornadaDev_EBAC.pdf)
