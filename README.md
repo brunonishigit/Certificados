@@ -31,6 +31,6 @@ Eles representam meu comprometimento com aprendizado contínuo e desenvolvimento
 ## 📌 Sobre mim
 
 Meu nome é **Bruno Hiroki Onishi**, sou estudante de tecnologia, e busco minha primeira oportunidade como estagiário ou desenvolvedor júnior.  
-Veja mais sobre mim no meu [GitHub](https://github.com/brunoonishi) ou [LinkedIn](https://linkedin.com/in/bruno-hiroki-onishi).
+Veja mais sobre mim no meu [GitHub](https://github.com/brunonishigit) ou [LinkedIn](https://linkedin.com/in/bruno-hiroki-onishi).
 
 📧 Contato: bruno.h.onishi@gmail.com
